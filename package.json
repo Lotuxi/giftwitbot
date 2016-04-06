@@ -1,0 +1,14 @@
+{
+  "name": "giftwitbot",
+  "version": "1.0.0",
+  "description": "a twitter bot for retweeting reaction gifs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brittany Vogel",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.3"
+  }
+}
